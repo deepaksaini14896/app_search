@@ -1,0 +1,92 @@
+
+body{
+
+    min-height: 100%;
+
+}
+
+#main-container{
+    height: 350px;
+}
+
+#f-form{
+    height: 100px;
+}
+
+#play{
+    font-size: large;
+}
+
+.play-store{
+    display: inline;
+}
+
+#app{
+    font-size: large;
+}
+
+.app-store{
+    display: none;
+    position: absolute;
+}
+
+#app-name{
+    margin-left: 100px;
+}
+
+#app-id{
+    margin-left: 175.5px;
+
+}
+
+
+#run-ajax{
+    position: absolute;
+}
+
+
+#loading{
+
+    display:none;
+    
+    padding-left: 100px;
+
+    font-size: medium;
+}
+
+#gif{
+
+    height: 50px;
+
+    width: 50px;
+}
+
+
+
+#data{
+
+    display: none;
+}
+
+#bottom-line{
+
+    border: none;
+
+    height: 5px;
+}
+
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;            /* Footer height */
+}
